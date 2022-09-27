@@ -17,15 +17,14 @@ export const useHttp = () => {
 
             const data = await response.json();
 
-            setLoading(true);
+            setLoading(false);
             return data;
         } catch(e) {
-            setLoading(true);
+            setLoading(false);
             setError(e.message);
-            throw e; 
+            throw e;
         }
-
-    }, [])
+    }, []);
 
     const clearError = useCallback(() => setError(null), []);
 
