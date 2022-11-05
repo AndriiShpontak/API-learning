@@ -1,7 +1,7 @@
 {
   "name": "marvel-api-test",
   "version": "0.1.0",
-  "homepage": "https://andrii-shpontak.github.io/marvel-api-test",
+  "homepage": "https://andrii-shpontak.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
