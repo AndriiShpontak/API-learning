@@ -3,7 +3,6 @@ This project was created as a pet project for the portfolio.
 
 Technologies used: JavaScript/React.js/
 
-See preview: [DEMO LINK](https://andrii-shpontak.github.io)
 
 
 
